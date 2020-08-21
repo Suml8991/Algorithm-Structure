@@ -1,3 +1,2 @@
-# hello-world
-我的第一个Github Repository
-do something changs
+# 算法学习
+计算机知识、算法学习总结
